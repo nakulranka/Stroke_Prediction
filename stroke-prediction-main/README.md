@@ -4,8 +4,6 @@ Predict stroke occurrence using multiple machine learning models on health data.
 
 ## Site for Stroke Prediction Using Machine Learning 
 
-[WebPage for Stroke Prediction using Machine Learning](https://siddharthranka-sr.github.io/project-page/)
-
 ## Requirements
 
 Use Python ≥ 3.8. Conda recommended: [Anaconda](https://docs.anaconda.com/anaconda/install/linux/)
